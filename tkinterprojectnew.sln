@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tkinterprojectnew", "tkinterprojectnew.pyproj", "{4118EA4A-7009-444A-99A1-3F19EBA8EC92}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tkinterprojectnew2", "..\tkinterprojectnew2\tkinterprojectnew2.pyproj", "{5793C745-18F8-40AC-BD0A-CA4C0A03464D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4118EA4A-7009-444A-99A1-3F19EBA8EC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4118EA4A-7009-444A-99A1-3F19EBA8EC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5793C745-18F8-40AC-BD0A-CA4C0A03464D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5793C745-18F8-40AC-BD0A-CA4C0A03464D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C576528A-12A0-41DB-8B0E-987DCE19DAC8}
+	EndGlobalSection
+EndGlobal
